@@ -1,0 +1,15 @@
+{
+  "name": "use-case-graphql-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JohnKaick/use-case-graphql-express.git",
+  "author": "JohnKaick <john.kaick@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "graphql-tools": "^4.0.4",
+    "graphql-yoga": "^1.17.4",
+    "lodash.merge": "^4.6.1",
+    "mongoose": "^5.4.16"
+  }
+}
